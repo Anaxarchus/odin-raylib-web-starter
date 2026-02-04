@@ -1,4 +1,4 @@
-//+build wasm32
+#+build wasm32
 /*
 Package vendor:raylib implements bindings for version 5.0 of the raylib library (https://www.raylib.com/)
 
@@ -82,7 +82,7 @@ Package vendor:raylib implements bindings for version 5.0 of the raylib library 
 */
 package raylib
 
-import builtin "core:builtin"
+import builtin "base:builtin"
 import "core:fmt"
 import "core:mem"
 import "core:strings"

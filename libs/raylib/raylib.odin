@@ -1,4 +1,4 @@
-//+build linux,darwin,windows
+#+build linux,darwin,windows
 /*
 Package vendor:raylib implements bindings for version 5.0 of the raylib library (https://www.raylib.com/)
 

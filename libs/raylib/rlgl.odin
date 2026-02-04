@@ -1,4 +1,4 @@
-//+build linux,darwin,windows
+#+build linux,darwin,windows
 /**********************************************************************************************
 *
 *   rlgl v5.0 - A multi-OpenGL abstraction layer with an immediate-mode style API
