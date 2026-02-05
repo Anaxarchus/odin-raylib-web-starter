@@ -3,7 +3,7 @@ package main
 import "../game"
 import "core:math/rand"
 import "core:mem"
-import "core:runtime"
+import "base:runtime"
 import rl "libs:raylib"
 
 foreign import "odin_env"
